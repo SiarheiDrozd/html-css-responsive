@@ -6,6 +6,7 @@
 }
 html, body {
     height: 100%;
+    overflow: overlay;
 }
 header {
     background: #003c44;
